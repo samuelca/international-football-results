@@ -11,7 +11,7 @@ For this project, I used data from international football matches to try to answ
     - More games? 
     - Percentage of each continent in the total of games
     - Teams from different continents play with each other more or less today than they did in the past?
-    - Did more different teams win games today than in the past? (não existe mais bobo no futebol)
+    - Did more different teams win games today than in the past?
 
 
 2. How is the performance of a winning world cup team in the years the preceed the tournament?
